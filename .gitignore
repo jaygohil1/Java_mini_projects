@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ﻿*.class
 bin/
 .vscode/
+=======
+﻿out/
+>>>>>>> 90e3f16d68f36032a1cf409fcdec92e36f115122
