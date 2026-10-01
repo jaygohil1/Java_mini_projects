@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Fibo {
     public static void main(String[] args) {
 //        System.out.println("Enter a number to get fibonnaci series till that number: \n");
-        System.out.println("Enter a number to get  that number: \n");
+        System.out.println("Enter a number to get   that number: \n");
         Scanner input = new Scanner(System.in);
 
         int num = input.nextInt();

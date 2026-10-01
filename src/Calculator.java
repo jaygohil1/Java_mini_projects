@@ -37,6 +37,7 @@ public class Calculator {
                 System.out.println("Invalid inputs bruvv!");
             }
 
+
             System.out.println("Your answer is :" + ans);
         }
 
