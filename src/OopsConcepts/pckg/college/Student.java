@@ -1,0 +1,7 @@
+package OopsConcepts.pckg.college;
+
+public class Student {
+    public void print(){
+        System.out.println("College student!");
+    }
+}
